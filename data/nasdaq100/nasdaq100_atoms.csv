@@ -1,0 +1,106 @@
+Ticker,Name,Sector,Industry
+ATVI,"Activision Blizzard, Inc",Technology,Computer Software: Prepackaged Software
+ADBE,Adobe Systems Incorporated,Technology,Computer Software: Prepackaged Software
+AKAM,"Akamai Technologies, Inc.",Miscellaneous,Business Services
+ALXN,"Alexion Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
+GOOGL,Alphabet Inc.,Technology,"Computer Software: Programming, Data Processing"
+GOOG,Alphabet Inc.,Technology,"Computer Software: Programming, Data Processing"
+AMZN,"Amazon.com, Inc.",Consumer Services,Catalog/Specialty Distribution
+AAL,"American Airlines Group, Inc.",Transportation,Air Freight/Delivery Services
+AMGN,Amgen Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ADI,"Analog Devices, Inc.",Technology,Semiconductors
+AAPL,Apple Inc.,Technology,Computer Manufacturing
+AMAT,"Applied Materials, Inc.",Technology,Semiconductors
+ADSK,"Autodesk, Inc.",Technology,Computer Software: Prepackaged Software
+ADP,"Automatic Data Processing, Inc.",Technology,EDP Services
+BIDU,"Baidu, Inc.",Technology,"Computer Software: Programming, Data Processing"
+BIIB,Biogen Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BMRN,BioMarin Pharmaceutical Inc.,Health Care,Major Pharmaceuticals
+AVGO,Broadcom Limited,Technology,Semiconductors
+CA,CA Inc.,Technology,Computer Software: Prepackaged Software
+CELG,Celgene Corporation,Health Care,Major Pharmaceuticals
+CERN,Cerner Corporation,Technology,EDP Services
+CHTR,"Charter Communications, Inc.",Consumer Services,Television Services
+CHKP,Check Point Software Technologies Ltd.,Technology,Computer Software: Prepackaged Software
+CTAS,Cintas Corporation,Consumer Non-Durables,Apparel
+CSCO,"Cisco Systems, Inc.",Technology,Computer Communications Equipment
+CTXS,"Citrix Systems, Inc.",Technology,Computer Software: Prepackaged Software
+CTSH,Cognizant Technology Solutions Corporation,Technology,EDP Services
+CMCSA,Comcast Corporation,Consumer Services,Television Services
+COST,Costco Wholesale Corporation,Consumer Services,Department/Specialty Retail Stores
+CSX,CSX Corporation,Transportation,Railroads
+CTRP,"Ctrip.com International, Ltd.",Miscellaneous,Business Services
+XRAY,DENTSPLY SIRONA Inc.,Health Care,Medical/Dental Instruments
+DISCA,"Discovery Communications, Inc.",Consumer Services,Television Services
+DISCK,"Discovery Communications, Inc.",Consumer Services,Television Services
+DISH,DISH Network Corporation,Consumer Services,Television Services
+DLTR,"Dollar Tree, Inc.",Consumer Services,Department/Specialty Retail Stores
+EBAY,eBay Inc.,Miscellaneous,Business Services
+EA,Electronic Arts Inc.,Technology,Computer Software: Prepackaged Software
+EXPE,"Expedia, Inc.",Consumer Services,Transportation Services
+ESRX,Express Scripts Holding Company,Health Care,Medical/Nursing Services
+FB,"Facebook, Inc.",Technology,"Computer Software: Programming, Data Processing"
+FAST,Fastenal Company,Consumer Services,RETAIL: Building Materials
+FISV,"Fiserv, Inc.",Technology,EDP Services
+GILD,"Gilead Sciences, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+HAS,"Hasbro, Inc.",Consumer Non-Durables,Recreational Products/Toys
+HSIC,"Henry Schein, Inc.",Health Care,Medical Specialities
+HOLX,"Hologic, Inc.",Health Care,Medical Electronics
+IDXX,"IDEXX Laboratories, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+ILMN,"Illumina, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
+INCY,Incyte Corporation,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+INTC,Intel Corporation,Technology,Semiconductors
+INTU,Intuit Inc.,Technology,Computer Software: Prepackaged Software
+ISRG,"Intuitive Surgical, Inc.",Health Care,Industrial Specialties
+JBHT,"J.B. Hunt Transport Services, Inc.",Transportation,Trucking Freight/Courier Services
+JD,"JD.com, Inc.",Consumer Services,Other Specialty Stores
+KLAC,KLA-Tencor Corporation,Capital Goods,Electronic Components
+LRCX,Lam Research Corporation,Technology,Industrial Machinery/Components
+LBTYA,Liberty Global plc,Consumer Services,Television Services
+LBTYK,Liberty Global plc,Consumer Services,Television Services
+LVNTA,Liberty Interactive Corporation,Consumer Services,Catalog/Specialty Distribution
+QVCA,Liberty Interactive Corporation,Consumer Services,Catalog/Specialty Distribution
+MAR,Marriott International,Consumer Services,Hotels/Resorts
+MAT,"Mattel, Inc.",Consumer Non-Durables,Recreational Products/Toys
+MXIM,"Maxim Integrated Products, Inc.",Technology,Semiconductors
+MCHP,Microchip Technology Incorporated,Technology,Semiconductors
+MU,"Micron Technology, Inc.",Technology,Semiconductors
+MSFT,Microsoft Corporation,Technology,Computer Software: Prepackaged Software
+MDLZ,"Mondelez International, Inc.",Consumer Non-Durables,Packaged Foods
+MNST,Monster Beverage Corporation,Consumer Non-Durables,Beverages (Production/Distribution)
+MYL,Mylan N.V.,Health Care,Major Pharmaceuticals
+NTES,"NetEase, Inc.",Miscellaneous,Business Services
+NFLX,"Netflix, Inc.",Consumer Services,Consumer Electronics/Video Chains
+NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Services,Marine Transportation
+NVDA,NVIDIA Corporation,Technology,Semiconductors
+ORLY,"O&#39;Reilly Automotive, Inc.",Consumer Services,Other Specialty Stores
+PCAR,PACCAR Inc.,Capital Goods,Auto Manufacturing
+PAYX,"Paychex, Inc.",Consumer Services,Diversified Commercial Services
+PYPL,"PayPal Holdings, Inc.",Miscellaneous,Business Services
+QCOM,QUALCOMM Incorporated,Technology,Radio And Television Broadcasting And Communications Equipment
+REGN,"Regeneron Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
+ROST,"Ross Stores, Inc.",Consumer Services,Clothing/Shoe/Accessory Stores
+STX,Seagate Technology PLC,Technology,Electronic Components
+SHPG,Shire plc,Health Care,Major Pharmaceuticals
+SIRI,Sirius XM Holdings Inc.,Consumer Services,Broadcasting
+SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors
+SBUX,Starbucks Corporation,Consumer Services,Restaurants
+SYMC,Symantec Corporation,Technology,Computer Software: Prepackaged Software
+TMUS,"T-Mobile US, Inc.",Public Utilities,Telecommunications Equipment
+TSLA,"Tesla, Inc. ",Capital Goods,Auto Manufacturing
+TXN,Texas Instruments Incorporated,Technology,Semiconductors
+KHC,The Kraft Heinz Company,Consumer Non-Durables,Packaged Foods
+PCLN,The Priceline Group Inc. ,Miscellaneous,Business Services
+TSCO,Tractor Supply Company,Consumer Services,RETAIL: Building Materials
+FOXA,"Twenty-First Century Fox, Inc.",Consumer Services,Television Services
+FOX,"Twenty-First Century Fox, Inc.",Consumer Services,Television Services
+ULTA,"Ulta Beauty, Inc.",Consumer Services,Other Specialty Stores
+VRSK,"Verisk Analytics, Inc.",Technology,EDP Services
+VRTX,Vertex Pharmaceuticals Incorporated,Health Care,Major Pharmaceuticals
+VIAB,Viacom Inc.,Consumer Services,Television Services
+VOD,Vodafone Group Plc,Public Utilities,Telecommunications Equipment
+WBA,"Walgreens Boots Alliance, Inc.",Health Care,Medical/Nursing Services
+WDC,Western Digital Corporation,Technology,Electronic Components
+WYNN,"Wynn Resorts, Limited",Consumer Services,Hotels/Resorts
+XLNX,"Xilinx, Inc.",Technology,Semiconductors
+YHOO,Yahoo! Inc.,Technology,EDP Services
