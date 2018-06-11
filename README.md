@@ -1,3 +1,3 @@
 # Pygnals
 
-This repo contains code for a web app that I wrote in Python to track a stock index (here nasdaq100) and model the volume spread. It estimates how significant is the signal provided by the basic supply and demand law of economics. Here I provide few sample results from a pool of historical data to share some output. The project is under development (running in [cloud9](https://aws.amazon.com/cloud9/)) with the aim to eventually use some of these ideas to trade.
+This repo contains code for a web app that I wrote in Python to track a stock index (here nasdaq100) and model the dependence of returns on volume spread. It estimates how significant is the signal provided by the basic supply and demand law of economics. Here I provide few sample results from a pool of historical data to share some output. The project is under development (running in [cloud9](https://aws.amazon.com/cloud9/)) with the aim to eventually use some of these ideas to trade.
